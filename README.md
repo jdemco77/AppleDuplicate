@@ -1,2 +1,3 @@
 # AppleDuplicate
-duplicate apple.com
+a duplicate of apple.com
+for a class project
